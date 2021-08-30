@@ -1,0 +1,14 @@
+name: Mob_and_Structures
+version: 1.0
+main: net.kunmc.lab.mob_and_structures.Mob_and_Structures
+api-version: 1.16
+depend: [WorldEdit]
+authors: [Yanaaaaa,Yanyaa]
+description: このプラグインはMobを倒すと構造物が生成されるプラグインです。コマンド一覧は/Mob_and_Structures help
+website: https://github.com/TeamKun
+commands:
+  mob_and_structures:
+    permission: MaS
+permissions:
+  MaS:
+    default: op
