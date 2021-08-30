@@ -2,6 +2,7 @@
 このプラグインはMobを倒すと構造物が生成されるPluginです。  
 動作環境 : PaperMC1.16.5 , Minecraft1.16.5  
 前提プラグイン : WorldEdit (worldedit-bukkit-7.2.5-dist.jar)  
+遊ぶ際は、schematics.zipを解凍して、サーバー内のplugins-Mob_and_Structuersに生成されたschematicsディレクトリに中身を入れてください。  
   
 ## コマンド一覧  
 ・ゲームの開始  
